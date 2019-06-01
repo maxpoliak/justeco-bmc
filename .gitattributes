@@ -1,0 +1,3 @@
+# Use basic .gitattributes for a python as in the openbnc repo
+*.* linguist-language=python
+
